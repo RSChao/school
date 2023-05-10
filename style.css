@@ -1,3 +1,15 @@
 body {
-    background-image: url("https://www.bing.com/ck/a?!&&p=d70b442974091340JmltdHM9MTY4MzY3NjgwMCZpZ3VpZD0wZWE4ZjcwYy0wMzJmLTY0MmItMzcyNy1lNTZjMDI4NzY1NzUmaW5zaWQ9NTcwMw&ptn=3&hsh=3&fclid=0ea8f70c-032f-642b-3727-e56c02876575&u=a1L2ltYWdlcy9zZWFyY2g_cT13YWxscGFwZXImRk9STT1JUUZSQkEmaWQ9RTMyREFFMUFGRUYzMURGMERFRDlCNkUwMzc2MkRGN0UxOTU0OEE5RA&ntb=1");
+    background-image: url("112121.jpg");
+}
+p{
+    color: aqua;
+}
+h1{
+    color:crimson
+}
+h2{
+    color:antiquewhite
+}
+a{
+    color:deepskyblue;
 }
